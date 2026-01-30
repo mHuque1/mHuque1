@@ -4,6 +4,17 @@
   <img src="images/github-header-banner.png" alt="GitHub Header Banner" />
 </p>
 
+
+<p align="center">
+  <a href="https://github.com/mHuque1">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mathias-huque/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 <p align="center">
 Senior Systems Engineering student at Universidad ORT Uruguay with a strong interest in technology and problem-solving. I enjoy working across different tools, frameworks, and domains, and I’m constantly looking for ways to grow both technically and professionally.
 </p>
@@ -34,11 +45,4 @@ Currently focused on Web Development and Artificial Intelligence, while strength
 
 ---
 
-<h2 align="center">Current Goals</h2>
-
-<p align="center">
-• Deepen knowledge of algorithms and system design  
-• Build scalable full-stack applications  
-• Explore applied AI projects
-</p>
 
