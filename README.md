@@ -132,8 +132,9 @@ Currently focused on Web Development and Artificial Intelligence, while strength
 ---
 
 <h2 align="center">GitHub Stats</h2>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhuque1)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
+
 <!-- GitHub stats card -->
 <!-- Top languages card -->
 </p>
